@@ -1,0 +1,6 @@
+{
+  "name": "Mi Cardex073",
+  "description": "Control y registro de Cardex individual universitario con cálculo de promedios por semestre y general",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
